@@ -16,6 +16,7 @@ int main(int argc, char* argv[])
 {
 
 	print_a();	
+	print_a();	
 	print_b();	
 	print_b();	
 
