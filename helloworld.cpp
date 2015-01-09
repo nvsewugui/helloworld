@@ -17,6 +17,7 @@ int main(int argc, char* argv[])
 
 	print_a();	
 	print_b();	
+	print_b();	
 
 	return 0;
 }
